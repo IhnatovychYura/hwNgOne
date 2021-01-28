@@ -1,0 +1,12 @@
+div {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+a {
+  display: block;
+  width: 200px;
+  height: 20px;
+  background: lightblue;
+}
